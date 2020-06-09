@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-project-1536923784642": {
+      "hosting": {
+        "MyProjectFirebase": [
+          "my-project-1536923784642"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-project-1536923784642"
+  }
+}
